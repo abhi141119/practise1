@@ -10,4 +10,5 @@ void main()
 	c=a+b;
 	printf("The addition of a and b is %d",c);
 	getch();
+	printf("New line added in module1");
 }
